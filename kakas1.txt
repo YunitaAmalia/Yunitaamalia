@@ -1,3 +1,4 @@
 Nama	: Yunita Amalia
 Nim	: 60900121018	
 Kelas	: A
+Mapel	: Kakas
